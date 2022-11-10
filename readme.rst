@@ -28,3 +28,5 @@ There are a couple different initial star setups you can try.
 .. figure:: screenshots/gen_random_space.png
 
    gen_random_space function
+
+
